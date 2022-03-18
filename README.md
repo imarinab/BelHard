@@ -1,2 +1,2 @@
 # BelHard
-studying at the Academy
+# Welcome Git
